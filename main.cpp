@@ -1,4 +1,4 @@
-#include "A67.hpp"
+#include "main.hpp"
 
 int main()
 {
